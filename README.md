@@ -46,7 +46,18 @@ MOVE TO INSTALLATION IF YOU ALREADY HAVE PYTHON INSTALLED IN YOUR SYSTEM
    python --version
    ```
 2. If you have python installed, you can skip this step. If not, you can download python from the link above and install it.
-3. Make sure you add python to your path. You can check this by typing python in your terminal. If you get a message saying python is not recognized, you need to add python to your path. You can follow this link [https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) to add python to your path.
+3. Make sure you add python to your path.
+   ![Check this while installing](https://www.pylenin.com/content/images/2021/08/Why-learn-Python--7-.png)
+   Close and reopen your terminal and check if you have python installed in your system.
+   You can check this by typing python in your terminal.
+
+   ```sh
+   python
+   ```
+
+if you get an error, you need to add python to your path. You can do this by following the steps below:
+
+If you get a message saying python is not recognized, you need to add python to your path. You can follow this link [https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) to add python to your path.
 
 ### Installation
 
