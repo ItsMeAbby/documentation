@@ -124,5 +124,5 @@ How to use the tool:
 - [ ] Search phrases based on some rules
 - [ ] Integrate with dynamic UI
 - [ ] SToring data to ensure you dont have to read files again and again
-  - [x] Database Inegration
+  - [] Database Inegration
   - [ ] JSON Integration
