@@ -73,7 +73,7 @@ Json file Format
 ```json
 {
   "file_1": {
-    "file_path": "<path to file u want to read>",
+    "file_path": "<path to file u want to read>",  // eaxmple ""F:\\Sajid\\searcher\\searchDoc.pdf" make sure keep same double back slashes
 
     "rules": {
       "1": {
